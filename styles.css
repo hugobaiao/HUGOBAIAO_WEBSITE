@@ -7,12 +7,11 @@
 
 .desc {
     font-size: 15px;
-    font-family: 'Cairo', sans-serif;
-    font-family: 'Manrope', sans-serif;
+    font-family: 'Barlow', sans-serif;
 }
 
 .aboutmepage {
-    font-family: 'Cairo', sans-serif;   
+    font-family: 'Barlow', sans-serif; 
 }
 
 .navbar {
@@ -39,3 +38,7 @@
     background-color: #296de3;
     color: white;
   }
+
+  .contact-me {
+    font-family: 'Barlow', sans-serif;
+  } 
