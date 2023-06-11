@@ -3,11 +3,22 @@
 .header {
     font-size: 50px;
     font-family: 'Audiowide', cursive;
-}
-
-.desc {
+    color: white;
+    margin: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding: 10px;
+  }
+.desc { 
     font-size: 15px;
     font-family: 'Barlow', sans-serif;
+    color: white;
+    width: 450px;
+    border: 5px solid white;
+    padding: 20px;
+    margin: auto;
 }
 
 .aboutmepage {
@@ -15,7 +26,7 @@
 }
 
 .navbar {
-    background-color: #333;
+    background-color: rgb(77, 77, 77);
     overflow:scroll;
 }
 
@@ -42,3 +53,14 @@
   .contact-me {
     font-family: 'Barlow', sans-serif;
   } 
+
+  .home-page {
+    background-color: black;
+  }
+
+  .home-gif {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
